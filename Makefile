@@ -5,7 +5,7 @@ PAGELANG?=zh
 TITLE?=MCreator Meme Project
 DESC?=收集一些MCreator梗
 TDESC?=> _Text memes description._
-FOOTER?=** Footer **
+FOOTER?=通过Pull Request增加我们的Meme!
 
 ifeq (${PAGELANG}, zh)
 T_MEMEPIC?=图片梗

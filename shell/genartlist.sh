@@ -59,7 +59,7 @@ cat >> "text/index.html" <<EOF
         </article>
 
         <footer id="footer">
-            <p>** Footer **</p>
+            <p>通过Pull Request增加我们的Meme!</p>
         </footer>
     </main>
 </body>
