@@ -42,7 +42,7 @@ cat > "text/index.html" <<EOF
         <h5 id="description"></h5>
         <article id="view">
             <github-md>
-> _这里收集了一些 MCreator 相关的文字梗。_
+> 这里收集了一些 MCreator 相关的文字梗。
 
 EOF
 
