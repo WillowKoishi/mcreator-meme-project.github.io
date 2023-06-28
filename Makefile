@@ -1,9 +1,9 @@
 # memebox generating
 
-PAGELANG?=en
+PAGELANG?=zh
 
-TITLE?=MemeBox
-DESC?=Joy for Everyone
+TITLE?=MCreator Meme Project
+DESC?=收集一些MCreator梗
 TDESC?=> _Text memes description._
 FOOTER?=** Footer **
 

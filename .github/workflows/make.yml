@@ -1,0 +1,26 @@
+# This workflows will upload a Python Package using Twine when a release is created
+# For more information see: https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions#publishing-to-package-registries
+
+name: Make
+
+on:
+  push: 
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+
+jobs:
+ build:
+   runs-on: ubuntu-latest
+   steps:
+     - uses: actions/checkout@v3
+     - run: |
+        make
+     - name: Upload Artifact
+       uses: actions/upload-artifact@v3.1.2
+       with:
+         name: website
+         path: './*'
