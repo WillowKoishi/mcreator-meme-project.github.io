@@ -1,5 +1,5 @@
 <div align=center>
-    <img width="255" height="255" src="https://ghproxy.net/https://raw.githubusercontent.com/MCreator-Meme-Project/mcreator-meme-project.github.io/main/static/favicon.ico"/>
+    <img width="255" height="255" src="https://ghproxy.net/https://raw.githubusercontent.com/MCreator-Meme-Project/mcreator-meme-project.github.io/main/static/favicon.png"/>
 </div>
 
 <center><h1> MCreator 梗图收集 </h1></center>
