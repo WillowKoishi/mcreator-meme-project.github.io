@@ -1,5 +1,5 @@
 <div align=center>
-    <img width="255" height="255" src="static/favicon.png"/>
+    <img width="255" height="255" src="static/favicon.ico"/>
 </div>
 
 <center><h1> MCreator 梗图收集 </h1></center>
