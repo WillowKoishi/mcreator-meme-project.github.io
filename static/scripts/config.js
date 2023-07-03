@@ -1,5 +1,6 @@
 export default {
   items: [
+    "meme/为什么用MCreator死路一条.jpg",
     "meme/你说的对，但《钢重置》.jpg",
     "meme/八云紫的生日（？）.png",
     "meme/机翻害死人.png",
